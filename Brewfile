@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+cask "microsoft-auto-update"
+cask "microsoft-office-businesspro"
+cask "slack"
+cask "zoom"
+cask "onedrive"
